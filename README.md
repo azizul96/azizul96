@@ -1,4 +1,5 @@
-<h1 align="right">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm </h1>
+
+<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋;I'm+Azizul+Islam;Frontend+Developer;&center=false&width=500&height=50"></a>
 
 <img width="100%"  style="align-items: center;" src="https://raw.githubusercontent.com/azizul96/azizul96/bf9a1b9716f7842a68179584a7d2cf33068d3722/images/github-cover.png">
 
@@ -9,7 +10,7 @@
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Frontend Web Development Projects
-- ⚡ Fun fact: Love To Coading On React
+- ⚡ Fun fact: Love To Coading In React
 - 📫 How to reach me:  <a href="mailto:azizulislam53468@gmail.com" target="_blank">Email</a> , <a href="https://www.linkedin.com/in/azizul-islam96/" target="_blank">LinkedIn</a>
 
 ---
@@ -50,4 +51,9 @@
 </p>
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azizul96&theme=react)](https://git.io/streak-stats) -->
+
+<a> 
+    <a href="https://github.com/azizul96"><img alt="azizul96" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=azizul96&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/azizul96"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=azizul96&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
