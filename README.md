@@ -53,7 +53,7 @@
 
 
 <a> 
-    <a href="https://github.com/azizul96"><img alt="azizul96" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=azizul96&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/azizul96"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=azizul96&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/azizul96"><img alt="azizul96" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=azizul96&show_icons=true&count_private=true&theme=react" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/azizul96"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=azizul96&langs_count=8&layout=compact&theme=react" height="192px" width="49.5%"/></a>
   <br/>
 </a>
