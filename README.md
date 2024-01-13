@@ -1,7 +1,7 @@
 
 <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋;I'm+Azizul+Islam;Frontend+Developer;&center=false&width=500&height=50"></a>
 
-<img width="100%"  style="align-items: center;" src="https://raw.githubusercontent.com/azizul96/azizul96/bf9a1b9716f7842a68179584a7d2cf33068d3722/images/github-cover.png">
+
 
   # About Myself 👦
  <p> Results-driven Frontend Developer with expertise in HTML, CSS, Tailwind, and React, complemented by backend proficiency in MongoDB. Adept at creating visually stunning and responsive web applications with a focus on user experience. Passionate about utilizing innovative technologies to deliver high-quality, scalable solutions.</p>
