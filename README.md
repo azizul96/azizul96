@@ -44,13 +44,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/azizul96">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azizul96&theme=react" alt="all GitHub Contribution"/>
-  </a>
-</p>
-
-
 
 <a> 
     <a href="https://github.com/azizul96"><img alt="azizul96" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=azizul96&show_icons=true&count_private=true&theme=react" height="192px" width="49.5%"/></a>
