@@ -1,6 +1,8 @@
 
 <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋;I'm+Azizul+Islam;Frontend+Developer;&center=false&width=500&height=50"></a>
 
+<img src="https://github.com/azizul96/my-portfolio/assets/92541869/187ca98b-19de-4f9d-8098-00843f5e52a8" />
+</a>
 
 
   # About Myself 👦
