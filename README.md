@@ -16,11 +16,13 @@ Over the years, I’ve developed hundreds of websites for clients, always mainta
 
 ### 🛠 Skills & Experience
 
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)   
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white)  
+![WPBakery](https://img.shields.io/badge/-WPBakery-006BB3?logo=wordpress&logoColor=white)  
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
+
 
