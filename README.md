@@ -1,6 +1,8 @@
 # Hi, I'm Azizul Hakim 👋  
 
-**👑 I am Wordpress Developer**
+👑 I am Wordpress Developer
+
+🖊️ Love to write code
 
 ---
 
