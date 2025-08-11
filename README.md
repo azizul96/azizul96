@@ -2,11 +2,6 @@
 
 ![Azizul Hakim](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/529332613_4163816070611869_6056291710066732203_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=KZYkW2U_9H8Q7kNvwEIiBP2&_nc_oc=AdnGUIV55I7guV6sIDBsZ9__BpWi1tNUvT01nTnDlmjOXyIYTiqVNF8i6h7g-vW774w&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=YBa2PPWaNDRYB0kiK-t0gA&oh=00_AfUqRxfIpbG2K9VV2U5ecfWDhcyERafeMUFDG_RZw4WtCA&oe=689F594B)
 
-👑 I am Wordpress Developer
-
-🖊️ Love to write code
-
----
 
 ## 🚀 About Me
 
